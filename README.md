@@ -1,1 +1,3 @@
-# DataMining-Lab04
+# k-mean-clustering
+Simple K-means Clustering Python implementation
+
