@@ -1,10 +1,3 @@
-# k-mean-clustering
-Simple K-means Clustering Python implementation
+# ml-implementation
+Simple Machine Learning algorithm implementation in Python using numpy
 
-
-
-# Input
-![alt text](image/og.png)
-
-# Output
-![alt text](image/k-means.png)
